@@ -43,3 +43,7 @@ Remember to refresh the skin after making any changes!
     RightPadding = 20
     TopPadding = 10
     BottomPadding = 10
+
+## Quotes
+
+If you see quote errors or would like to suggest some to add, visit the [quote repository](https://github.com/sandsq/time_of_day_quotes)!
