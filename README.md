@@ -19,6 +19,8 @@ Open TimeQuotes.ini and locate the \[Variables\] section. `WidgetMode = 1` is me
 
 Colors can have an optional opacity value as the last two digits, for hex. RGB and RGBA are also supported, e.g., `QuoteFontColor = R, G, B, A`.
 
+Remember to refresh the skin after making any changes!
+
     [Variables]
     ; If WidgetMode = 1, use the specified width and display quotes with newlines, etc. 
     ; If WidgetMode = 0, automatically expand the widget to the screen width for use as a top or bottom bar and replace quote newlines with "//".
