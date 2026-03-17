@@ -1,4 +1,6 @@
-# Book quote clock for Rainmeter
+# litchrono
+
+A rainmeter skin for displaying a quote from a piece of literature with the current time of day (HH:MM).
 
 <img width="1458" height="881" alt="image" src="https://github.com/user-attachments/assets/1452bb2f-7a35-4b9f-96c0-1dcff6f4b3b8" />
 
