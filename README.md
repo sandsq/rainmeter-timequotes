@@ -17,7 +17,7 @@ Clone this repository to your Rainmeter skin directory (typically `%USERPROFILE%
 Then, you can periodically update the submodule to receive new quotes and corrections.
 
 ## Configuration
-Open TimeQuotes.ini and locate the \[Variables\] section. `WidgetMode = 1` is meant to be used as a desktop background element, while `WidgetMode = 0` is meant to be used as an overlay bar.
+Open litchrono.ini and locate the \[Variables\] section. `WidgetMode = 1` is meant to be used as a desktop background element, while `WidgetMode = 0` is meant to be used as an overlay bar.
 
 Colors can have an optional opacity value as the last two digits, for hex. RGB and RGBA are also supported, e.g., `QuoteFontColor = R, G, B, A`.
 
