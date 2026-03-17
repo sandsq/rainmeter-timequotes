@@ -1,21 +1,23 @@
-# Book quote clock for Rainmeter
+# litchrono
+
+A rainmeter skin for displaying a quote from a piece of literature with the current time of day (HH:MM).
 
 <img width="1458" height="881" alt="image" src="https://github.com/user-attachments/assets/1452bb2f-7a35-4b9f-96c0-1dcff6f4b3b8" />
 
 ## Installation
 
 ### Basic
-Download the Rainmeter skin from [releases](https://github.com/sandsq/rainmeter-timequotes/releases).
+Download the Rainmeter skin from [releases](https://github.com/sandsq/litchrono-rainmeter/releases).
 
 ### Advanced
 Clone this repository to your Rainmeter skin directory (typically `%USERPROFILE%\Documents\Rainmeter\Skins`) using 
 
-    git clone https://github.com/sandsq/rainmeter-timequotes.git --recurse-submodules TimeQuotes
+    git clone https://github.com/sandsq/litchrono-rainmeter.git --recurse-submodules litchrono
 
 Then, you can periodically update the submodule to receive new quotes and corrections.
 
 ## Configuration
-Open TimeQuotes.ini and locate the \[Variables\] section. `WidgetMode = 1` is meant to be used as a desktop background element, while `WidgetMode = 0` is meant to be used as an overlay bar.
+Open litchrono.ini and locate the \[Variables\] section. `WidgetMode = 1` is meant to be used as a desktop background element, while `WidgetMode = 0` is meant to be used as an overlay bar.
 
 Colors can have an optional opacity value as the last two digits, for hex. RGB and RGBA are also supported, e.g., `QuoteFontColor = R, G, B, A`.
 
