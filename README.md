@@ -7,12 +7,12 @@ A rainmeter skin for displaying a quote from a piece of literature with the curr
 ## Installation
 
 ### Basic
-Download the Rainmeter skin from [releases](https://github.com/sandsq/rainmeter-timequotes/releases).
+Download the Rainmeter skin from [releases](https://github.com/sandsq/litchrono-rainmeter/releases).
 
 ### Advanced
 Clone this repository to your Rainmeter skin directory (typically `%USERPROFILE%\Documents\Rainmeter\Skins`) using 
 
-    git clone https://github.com/sandsq/rainmeter-timequotes.git --recurse-submodules TimeQuotes
+    git clone https://github.com/sandsq/litchrono-rainmeter.git --recurse-submodules litchrono
 
 Then, you can periodically update the submodule to receive new quotes and corrections.
 
