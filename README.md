@@ -1,5 +1,4 @@
 # litchrono
-
 A rainmeter skin for displaying a quote from a piece of literature with the current time of day (HH:MM).
 
 1. [Gallery](#gallery)
@@ -10,11 +9,11 @@ A rainmeter skin for displaying a quote from a piece of literature with the curr
 1. [Quotes](#quotes)
 
 ## Gallery
-
 <img width="1458" height="881" alt="image" src="https://github.com/user-attachments/assets/1452bb2f-7a35-4b9f-96c0-1dcff6f4b3b8" />
 <img width="1920" height="648" alt="image" src="https://github.com/user-attachments/assets/599fab9a-fc0c-4c4a-a3f7-e107bf9eed50" />
 
 ## Installation
+Make sure you have [Rainmeter](https://www.rainmeter.net/) installed.
 
 ### Basic
 Download the Rainmeter skin from [releases](https://github.com/sandsq/litchrono-rainmeter/releases).
