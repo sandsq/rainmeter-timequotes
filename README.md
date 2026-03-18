@@ -1,5 +1,5 @@
 # litchrono
-A rainmeter skin for displaying a quote from a piece of literature with the current time of day (HH:MM).
+A Rainmeter skin for displaying a quote from a piece of literature with the current time of day (HH:MM).
 
 1. [Gallery](#gallery)
 2. [Installation](#installation)
