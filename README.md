@@ -59,3 +59,6 @@ Remember to refresh the skin after making any changes!
 ## Quotes
 
 If you see quote errors or would like to suggest some to add, visit the [quote repository](https://github.com/sandsq/time_of_day_quotes)!
+
+## Misc
+Code from [json.lua](https://github.com/rxi/json.lua) is used to parse the json.
